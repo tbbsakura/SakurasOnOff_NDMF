@@ -1,0 +1,28 @@
+{
+    "name": "SakuraOnOffMenuNDMF.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:62ced99b048af7f4d8dfe4bed8373d76",
+        "GUID:fc900867c0f47cd49b6e2ae4ef907300",
+        "GUID:af0f714d0ecb8f74bad2acef2d83dd19"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "SAKURASCRIPT_HAS_MA"
+    ],
+    "versionDefines": [
+        {
+            "name": "nadena.dev.modular-avatar",
+            "expression": "",
+            "define": "SAKURASCRIPT_HAS_MA"
+        }
+    ],
+    "noEngineReferences": false
+}
